@@ -1,2 +1,2 @@
 # DesignPattern
-show some codes for java design patterns
+show some java codes for design patterns
